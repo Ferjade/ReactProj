@@ -1,0 +1,14 @@
+div.itemStyle {
+    color: yellow;
+    font-size: 14px;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    margin-top: 1em;
+}
+th, td {
+    width: 8em;
+    border: 1px solid black;
+}
